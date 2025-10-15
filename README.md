@@ -1,2 +1,1 @@
-# Project03
-AISW-OSS
+Team Number : 8조
